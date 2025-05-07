@@ -2,7 +2,7 @@ using NCMS;
 using UnityEngine;
 using HarmonyLib;
 using System;
-namespace GodsAndPantheons
+namespace NIGGAS
 {
     [ModEntry]
     class Main : MonoBehaviour
